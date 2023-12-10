@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34309.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HamtaPharmaceutical.Infrastructure", "HamtaPharmaceutical.Data\HamtaPharmaceutical.Infrastructure.csproj", "{917A46CD-125E-446A-8FBD-685E30758140}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HamtaPharmaceutical.Application", "HamtaPharmaceutical.Application\HamtaPharmaceutical.Application.csproj", "{7EED32CA-732B-40C5-B548-33C886E6A7E8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HamtaPharmaceutical.Domain", "HamtaPharmaceutical.Entities\HamtaPharmaceutical.Domain.csproj", "{43871D68-B520-484E-8A11-AB0AC4E37F62}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HamtaPharmaceutical.Api", "HamtaPharmaceutical.Api\HamtaPharmaceutical.Api.csproj", "{CA2FA45B-9870-453E-B48B-EBE7B97332C2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{917A46CD-125E-446A-8FBD-685E30758140}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{917A46CD-125E-446A-8FBD-685E30758140}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{917A46CD-125E-446A-8FBD-685E30758140}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{917A46CD-125E-446A-8FBD-685E30758140}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7EED32CA-732B-40C5-B548-33C886E6A7E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7EED32CA-732B-40C5-B548-33C886E6A7E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7EED32CA-732B-40C5-B548-33C886E6A7E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7EED32CA-732B-40C5-B548-33C886E6A7E8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{43871D68-B520-484E-8A11-AB0AC4E37F62}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43871D68-B520-484E-8A11-AB0AC4E37F62}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43871D68-B520-484E-8A11-AB0AC4E37F62}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43871D68-B520-484E-8A11-AB0AC4E37F62}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CA2FA45B-9870-453E-B48B-EBE7B97332C2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA2FA45B-9870-453E-B48B-EBE7B97332C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA2FA45B-9870-453E-B48B-EBE7B97332C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA2FA45B-9870-453E-B48B-EBE7B97332C2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B1F1F3CE-A210-436E-A0E4-D5400FCB7875}
+	EndGlobalSection
+EndGlobal
